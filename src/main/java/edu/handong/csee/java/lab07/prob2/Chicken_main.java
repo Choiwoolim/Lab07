@@ -4,7 +4,7 @@ package edu.handong.csee.java.lab07.prob2;//Package name.
  * This class defines Chicken_main class.
  * The Chicken_main class has main method.
  * The Chicken_main class Control Chicken class.
- * @author wooli
+ * @author CUL
  *
  */
 public class Chicken_main {		//Chicken main class
